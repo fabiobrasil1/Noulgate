@@ -52,4 +52,6 @@ Not a chatbot, not an agent, not a WAF, not a promise of cost/latency/accuracy g
 
 ## License
 
-MIT
+All rights reserved. Fabio Brasil retains exclusive copyright in the original code of this project. No license is granted to use, modify, or distribute that original code.
+
+Third-party components, if any, remain under their own licenses.

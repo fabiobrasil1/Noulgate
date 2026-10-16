@@ -290,7 +290,7 @@ noulgate/
 4. **Eval** — golden labels, script de relatório, documentar o que falta medir.
 5. **Pack extra (opcional)** — `llm_output.v1` só depois do contrato estar estável.
 
-Critério de “pronto para GitHub público”: fase 1 + README em inglês + `.env.example` + licença MIT + `mock` funcionando sem chave.
+Critério de “pronto para GitHub público”: fase 1 + README em inglês + `.env.example` + declaração de direitos (código original sem licença MIT) + `mock` funcionando sem chave.
 
 ---
 
